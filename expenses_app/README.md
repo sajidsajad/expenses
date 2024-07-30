@@ -16,7 +16,8 @@ The Daily Expenses Sharing Application is a Django-based web application that al
 
 ### Prerequisites
 
-- Python 3.8 or later
+- Python 3
+- Django Framework 
 - pip (Python package installer)
 
 ### 1. Clone the Repository
