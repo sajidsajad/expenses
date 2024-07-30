@@ -10,6 +10,7 @@ class User(models.Model):
         return self.name
 
 class Expense(models.Model):
+    # we have three scenarios, for that we are creating SPLIT_METHODS:-
     SPLIT_METHODS = (
         ('E', 'Equal'),
         ('X', 'Exact'),
