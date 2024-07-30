@@ -14,6 +14,12 @@ The Daily Expenses Sharing Application is a Django-based web application that al
 
 ## Setup and Installation
 
+## Documentation
+
+- I have added a documentation in a form of pdf file named **daily_expense_documentation.pdf**
+- In that I have mentioned everything from **cloning the project** to **running the project**.
+- Also I have added images of **requests** and **responses** of all API end points needed for the task. 
+
 ### Prerequisites
 
 - Python 3.8 or later
@@ -26,3 +32,5 @@ Clone the repository from GitHub:
 ```bash
 git clone https://github.com/sajidsajad/expenses.git
 cd expenses/expenses_app
+
+
